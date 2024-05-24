@@ -10,7 +10,7 @@ import json
 import subprocess
 import platform
 import logging
-from embeddingsB import Embeddings
+from embeddings import Embeddings
 import requests
 import threading
 
